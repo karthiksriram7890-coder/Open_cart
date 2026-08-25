@@ -1,0 +1,52 @@
+17:48:29.683[TestNG-tests-2] INFO  testCases.TC1_Accountregistrationpage - click on Registeraccountink
+17:48:29.701[TestNG-tests-2] INFO  testCases.TC1_Accountregistrationpage - Providing customer details
+17:48:30.777[TestNG-tests-1] INFO  testCases.TC1_Accountregistrationpage - validating expected message
+17:48:30.845[TestNG-tests-2] INFO  testCases.TC1_Accountregistrationpage - validating expected message
+17:48:31.495[TestNG-tests-1] INFO  testCases.TC1_Accountregistrationpage - finished TC1 Account registration
+17:48:31.550[TestNG-tests-2] INFO  testCases.TC1_Accountregistrationpage - finished TC1 Account registration
+17:48:34.257[TestNG-tests-3] INFO  testCases.TC1_Accountregistrationpage - Starting TC1 Account registration
+17:48:34.403[TestNG-tests-3] INFO  testCases.TC1_Accountregistrationpage - click on Accountlink
+17:48:34.813[TestNG-tests-3] INFO  testCases.TC1_Accountregistrationpage - click on Registeraccountink
+17:48:34.813[TestNG-tests-3] INFO  testCases.TC1_Accountregistrationpage - Providing customer details
+17:49:28.584[main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\karth\eclipse-workspace\Open_cart\crossbrowsertesting.xml"
+17:49:28.828[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\karth\eclipse-workspace\Open_cart\crossbrowsertesting.xml
+
+17:49:31.494[TestNG-tests-2] INFO  testCases.TC1_Accountregistrationpage - Starting TC1 Account registration
+17:49:31.494[TestNG-tests-1] INFO  testCases.TC1_Accountregistrationpage - Starting TC1 Account registration
+17:49:31.740[TestNG-tests-2] INFO  testCases.TC1_Accountregistrationpage - click on Accountlink
+17:49:31.768[TestNG-tests-1] INFO  testCases.TC1_Accountregistrationpage - click on Accountlink
+17:49:32.253[TestNG-tests-2] INFO  testCases.TC1_Accountregistrationpage - click on Registeraccountink
+17:49:32.258[TestNG-tests-2] INFO  testCases.TC1_Accountregistrationpage - Providing customer details
+17:49:32.306[TestNG-tests-1] INFO  testCases.TC1_Accountregistrationpage - click on Registeraccountink
+17:49:32.307[TestNG-tests-1] INFO  testCases.TC1_Accountregistrationpage - Providing customer details
+17:49:33.323[TestNG-tests-2] INFO  testCases.TC1_Accountregistrationpage - validating expected message
+17:49:33.453[TestNG-tests-1] INFO  testCases.TC1_Accountregistrationpage - validating expected message
+17:49:33.949[TestNG-tests-2] INFO  testCases.TC1_Accountregistrationpage - finished TC1 Account registration
+17:49:34.099[TestNG-tests-1] INFO  testCases.TC1_Accountregistrationpage - finished TC1 Account registration
+17:49:36.890[TestNG-tests-3] INFO  testCases.TC1_Accountregistrationpage - Starting TC1 Account registration
+17:49:37.046[TestNG-tests-3] INFO  testCases.TC1_Accountregistrationpage - click on Accountlink
+17:49:37.393[TestNG-tests-3] INFO  testCases.TC1_Accountregistrationpage - click on Registeraccountink
+17:49:37.395[TestNG-tests-3] INFO  testCases.TC1_Accountregistrationpage - Providing customer details
+17:53:28.767[main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\karth\eclipse-workspace\Open_cart\crossbrowsertesting.xml"
+17:53:28.981[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\karth\eclipse-workspace\Open_cart\crossbrowsertesting.xml
+
+17:53:31.534[TestNG-tests-1] INFO  testCases.TC1_Accountregistrationpage - Starting TC1 Account registration
+17:53:31.534[TestNG-tests-2] INFO  testCases.TC1_Accountregistrationpage - Starting TC1 Account registration
+17:53:31.845[TestNG-tests-2] INFO  testCases.TC1_Accountregistrationpage - click on Accountlink
+17:53:31.876[TestNG-tests-1] INFO  testCases.TC1_Accountregistrationpage - click on Accountlink
+17:53:32.432[TestNG-tests-1] INFO  testCases.TC1_Accountregistrationpage - click on Registeraccountink
+17:53:32.438[TestNG-tests-1] INFO  testCases.TC1_Accountregistrationpage - Providing customer details
+17:53:32.499[TestNG-tests-2] INFO  testCases.TC1_Accountregistrationpage - click on Registeraccountink
+17:53:32.499[TestNG-tests-2] INFO  testCases.TC1_Accountregistrationpage - Providing customer details
+17:53:33.502[TestNG-tests-2] INFO  testCases.TC1_Accountregistrationpage - validating expected message
+17:53:33.551[TestNG-tests-1] INFO  testCases.TC1_Accountregistrationpage - validating expected message
+17:53:34.078[TestNG-tests-2] INFO  testCases.TC1_Accountregistrationpage - finished TC1 Account registration
+17:53:34.195[TestNG-tests-1] INFO  testCases.TC1_Accountregistrationpage - finished TC1 Account registration
+17:55:21.155[main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\karth\eclipse-workspace\Open_cart\crossbrowsertesting.xml"
+17:55:21.497[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\karth\eclipse-workspace\Open_cart\crossbrowsertesting.xml
+
+17:55:24.191[TestNG-tests-1] INFO  testCases.TC1_Accountregistrationpage - Starting TC1 Account registration
+17:55:24.228[TestNG-tests-2] INFO  testCases.TC1_Accountregistrationpage - Starting TC1 Account registration

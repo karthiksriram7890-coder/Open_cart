@@ -1,0 +1,64 @@
+13:20:08.342[main] INFO  testCases.Tc2_Logintest - Verifying My Account page
+13:20:18.456[main] INFO  testCases.Tc2_Logintest - My Account verification result: false
+13:31:17.511[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\karth\eclipse-workspace\Open_cart\grouping.xml
+
+13:31:24.819[main] INFO  testCases.TC1_Accountregistrationpage - Starting TC1 Account registration
+13:31:25.076[main] INFO  testCases.TC1_Accountregistrationpage - click on Accountlink
+13:31:25.747[main] INFO  testCases.TC1_Accountregistrationpage - click on Registeraccountink
+13:31:25.752[main] INFO  testCases.TC1_Accountregistrationpage - Providing customer details
+13:31:26.832[main] INFO  testCases.TC1_Accountregistrationpage - validating expected message
+13:31:27.835[main] INFO  testCases.TC1_Accountregistrationpage - finished TC1 Account registration
+13:31:29.867[main] INFO  testCases.Tc2_Logintest - verify login test
+13:31:29.868[main] INFO  testCases.Tc2_Logintest - Clicking My Account
+13:31:29.971[main] INFO  testCases.Tc2_Logintest - Clicking Login
+13:31:30.573[main] INFO  testCases.Tc2_Logintest - Entering email
+13:31:30.666[main] INFO  testCases.Tc2_Logintest - Entering password
+13:31:30.735[main] INFO  testCases.Tc2_Logintest - Clicking Login button
+13:31:30.874[main] INFO  testCases.Tc2_Logintest - Verifying My Account page
+13:31:40.905[main] INFO  testCases.Tc2_Logintest - My Account verification result: false
+13:47:24.561[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\karth\eclipse-workspace\Open_cart\grouping.xml
+
+13:47:27.072[main] INFO  testCases.TC1_Accountregistrationpage - Starting TC1 Account registration
+13:47:27.258[main] INFO  testCases.TC1_Accountregistrationpage - click on Accountlink
+13:47:27.852[main] INFO  testCases.TC1_Accountregistrationpage - click on Registeraccountink
+13:47:27.857[main] INFO  testCases.TC1_Accountregistrationpage - Providing customer details
+13:47:28.758[main] INFO  testCases.TC1_Accountregistrationpage - validating expected message
+13:47:29.731[main] INFO  testCases.TC1_Accountregistrationpage - finished TC1 Account registration
+13:47:31.611[main] INFO  testCases.Tc2_Logintest - verify login test
+13:47:31.611[main] INFO  testCases.Tc2_Logintest - Clicking My Account
+13:47:31.730[main] INFO  testCases.Tc2_Logintest - Clicking Login
+13:47:32.276[main] INFO  testCases.Tc2_Logintest - Entering email
+13:47:32.364[main] INFO  testCases.Tc2_Logintest - Entering password
+13:47:32.431[main] INFO  testCases.Tc2_Logintest - Clicking Login button
+13:47:32.504[main] INFO  testCases.Tc2_Logintest - Verifying My Account page
+13:47:42.573[main] INFO  testCases.Tc2_Logintest - My Account verification result: false
+13:55:52.893[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\karth\eclipse-workspace\Open_cart\grouping.xml
+
+13:55:55.165[main] INFO  testCases.TC1_Accountregistrationpage - Starting TC1 Account registration
+13:55:55.380[main] INFO  testCases.TC1_Accountregistrationpage - click on Accountlink
+13:55:55.897[main] INFO  testCases.TC1_Accountregistrationpage - click on Registeraccountink
+13:55:55.899[main] INFO  testCases.TC1_Accountregistrationpage - Providing customer details
+13:55:56.787[main] INFO  testCases.TC1_Accountregistrationpage - validating expected message
+13:55:57.684[main] INFO  testCases.TC1_Accountregistrationpage - finished TC1 Account registration
+13:55:59.359[main] INFO  testCases.Tc2_Logintest - verify login test
+13:55:59.359[main] INFO  testCases.Tc2_Logintest - Clicking My Account
+13:55:59.467[main] INFO  testCases.Tc2_Logintest - Clicking Login
+13:56:00.072[main] INFO  testCases.Tc2_Logintest - Entering email
+13:56:00.200[main] INFO  testCases.Tc2_Logintest - Entering password
+13:56:00.261[main] INFO  testCases.Tc2_Logintest - Clicking Login button
+13:56:00.336[main] INFO  testCases.Tc2_Logintest - Verifying My Account page
+13:56:10.418[main] INFO  testCases.Tc2_Logintest - My Account verification result: false
+10:22:30.519[main] INFO  testCases.TC3_LoginDDT - *********Starting TC3_LoginDDT**********
+10:22:36.732[main] INFO  testCases.TC3_LoginDDT - *********Starting TC3_LoginDDT**********
+10:22:36.750[main] INFO  testCases.TC3_LoginDDT - *********Starting TC3_LoginDDT**********
+10:23:16.378[main] INFO  testCases.TC3_LoginDDT - *********Starting TC3_LoginDDT**********
+10:23:19.669[main] INFO  testCases.TC3_LoginDDT - *********Ending TC3_LoginDDT**********
+10:23:19.697[main] INFO  testCases.TC3_LoginDDT - *********Starting TC3_LoginDDT**********
+10:23:30.567[main] INFO  testCases.TC3_LoginDDT - *********Ending TC3_LoginDDT**********
+10:23:30.573[main] INFO  testCases.TC3_LoginDDT - *********Starting TC3_LoginDDT**********
+10:23:41.548[main] INFO  testCases.TC3_LoginDDT - *********Ending TC3_LoginDDT**********
+10:56:34.183[main] INFO  testCases.TC3_LoginDDT - *********Starting TC3_LoginDDT**********
+10:56:37.431[main] INFO  testCases.TC3_LoginDDT - *********Ending TC3_LoginDDT**********
